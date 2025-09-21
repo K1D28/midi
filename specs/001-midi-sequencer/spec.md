@@ -19,5 +19,3 @@ FR-003: System MUST export as a .mid file.
 - [x] Testable? Yes.
 - [ ] Ambiguities? No.
 - SUCCESS: Ready for /plan.
-- Scenario 3: User exports an empty sequence → Expected: Downloads a valid .mid file with no notes.
-- Scenario 4: User exports a sequence with overlapping notes → Expected: Downloads a .mid file with correct note timings.
